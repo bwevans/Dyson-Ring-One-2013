@@ -1,3 +1,9 @@
+/***********************************
+Source code for Dyson Ring One, 2013
+www.brianwevans.com
+CC-BY-SA 2013
+***********************************/
+
 #include <Streaming.h>
 #include <LPD8806.h>
 #include <SPI.h>
